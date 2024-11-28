@@ -2,14 +2,15 @@
 
 <h1>Proyecto para analisis de datos sobre la Review de cursos de udemy utilizando python-jupyter-highcharts para el analisis de datos y la visualizacion de la informacion.</h1>
 
-<p>Pasos que se siguieron</p>
-<ul>
+<p1>Pasos que se siguieron</p1>
+
+</ul>
 <li>1.Seleccionar datos del marco de datos</ul>
 <li>2.seleccion de multiples columnas </ul>
 <li>3.Seleccionar filas</ul>
-<li>4.Selecion de multiples filas</ul>
-  
+<li>4.Selecion de multiples filas
 </ul>
+  
 1.Seleccionar datos del marco de datos
 2.seleccion de multiples columnas 
 3.Seleccionar filas
