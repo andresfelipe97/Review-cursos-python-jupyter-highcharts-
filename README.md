@@ -4,32 +4,28 @@
 
 <p1>Pasos que se siguieron</p1>
 
-<ul>
-<li>1.Seleccionar datos del marco de datos</li>
-<li>2.seleccion de multiples columnas </li>
-<li>3.Seleccionar filas</li>
+<ul>1.Seleccionar datos del marco de datos</ul>
+<ul>2.seleccion de multiples columnas </ul>
+<ul>3.Seleccionar filas</ul>
 
-</ul>
 
-<ul>4.Selecion de multiples filas
+<ul>4.Selecion de multiples filas</ul>
 <li>1.Seleccionar datos del marco de datos</li>
 <li>2.seleccion de multiples columnas </li>
 <li>3.Seleccionar filas</li>
 <li>4.Selecion de multiples filas</li>
-</ul>
+
   
-<ul>
-<li>5.Filtro basado en condiciones
+<ul>5.Filtro basado en condiciones</ul>
   <li>1.primera condicion calificacion mayor de 4.</li>
   <li>2.filtro basado en el tiempo </li>
-</ul>
 
-6.De data a informacion
-  1.calificación promedio
-  2.clasificacion promedio para un periodo
-  3.Promedio de las clasificaciones sin comentarios
-  4.Promedio de las clasificaciones con comentarios
-  5.Numero de valoraciones sin comentar
-  6.Numero de valoraciones con comentarios 
-  7.Numeros de comentarios que contienen una determinada palabra (Acento)
-  8.Promedio de comentarios que contienen una determinada palabra (Acento) en los comentarios
+<ul>6.De data a informacion</ul>
+<li> 1.calificación promedio</li>
+<li> 2.clasificacion promedio para un periodo</li>
+<li> 3.Promedio de las clasificaciones sin comentarios</li>
+<li>4.Promedio de las clasificaciones con comentarios</li>
+<li>5.Numero de valoraciones sin comentar</li>
+<li>6.Numero de valoraciones con comentarios </li>
+<li>7.Numeros de comentarios que contienen una determinada palabra (Acento)</li>
+<li>8.Promedio de comentarios que contienen una determinada palabra (Acento) en los comentarios</li>
