@@ -15,10 +15,13 @@
 <li>3.Seleccionar filas</li>
 <li>4.Selecion de multiples filas</li>
 
-  
+<br>  
+
 <ul>5.Filtro basado en condiciones</ul>
-  <li>1.primera condicion calificacion mayor de 4.</li>
-  <li>2.filtro basado en el tiempo </li>
+<li>1.primera condicion calificacion mayor de 4.</li>
+<li>2.filtro basado en el tiempo </li>
+
+<br>  
 
 <ul>6.De data a informacion</ul>
 <li> 1.calificación promedio</li>
