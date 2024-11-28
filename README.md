@@ -4,21 +4,25 @@
 
 <p1>Pasos que se siguieron</p1>
 
+<ul>
+<li>1.Seleccionar datos del marco de datos</li>
+<li>2.seleccion de multiples columnas </li>
+<li>3.Seleccionar filas</li>
+
 </ul>
-<li>1.Seleccionar datos del marco de datos</ul>
-<li>2.seleccion de multiples columnas </ul>
-<li>3.Seleccionar filas</ul>
-<li>4.Selecion de multiples filas
+
+<ul>4.Selecion de multiples filas
+<li>1.Seleccionar datos del marco de datos</li>
+<li>2.seleccion de multiples columnas </li>
+<li>3.Seleccionar filas</li>
+<li>4.Selecion de multiples filas</li>
 </ul>
   
-1.Seleccionar datos del marco de datos
-2.seleccion de multiples columnas 
-3.Seleccionar filas
-4.Selecion de multiples filas
-
-5.Filtro basado en condiciones
-  1.primera condicion calificacion mayor de 4.
-  2.filtro basado en el tiempo
+<ul>
+<li>5.Filtro basado en condiciones
+  <li>1.primera condicion calificacion mayor de 4.</li>
+  <li>2.filtro basado en el tiempo </li>
+</ul>
 
 6.De data a informacion
   1.calificación promedio
